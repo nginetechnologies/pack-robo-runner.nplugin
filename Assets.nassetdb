@@ -1732,10 +1732,6 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
-    "a6e8b812-86ee-20ce-4d85-fe4a3ec07690": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Cubemaps/Default_Skybox.tex.nasset"
-    },
     "a78284df-01d7-2e1a-cbc6-11016ba59c8a": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
