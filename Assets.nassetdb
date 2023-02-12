@@ -1,23 +1,21 @@
 {
-    "003e60ed-b32e-aaa4-1964-d26850ce39e9": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Diamond_Thumb.tex.nasset"
-    },
-    "0077f5a6-70bd-095c-c938-8b02b20dbf2c": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Road_End_Thumb.tex.nasset"
-    },
     "01818be6-828b-4dfe-410c-ae2f2b6e0aff": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Blue 900.mtli.nasset",
+        "thumbnail": "9b9cfbc2-6fe8-9c1f-01f5-81d0884aa30a",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
+    },
+    "01e1d8a0-b67c-9fb0-5b2f-ad39e03fd848": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Robo_Runner.scene.nasset/Ramp Connector.mesh.nasset/Thumbnails/Ramp Connector.mesh.nasset.tex.nasset"
     },
     "029fbe28-9184-4257-ae3f-0e96892a5de8": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Robo_Runner.scene.nasset/Floor 01.mesh.nasset/Floor 01.mesh.nasset",
+        "thumbnail": "c1c15a36-45ce-2a83-2a89-36b88b661e1b",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -63,6 +61,10 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "04c29b20-8d98-96b0-56ff-47bc57e7a331": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Robo_Runner.scene.nasset/Step Medium.mesh.nasset/Thumbnails/Step Medium.mesh.nasset.tex.nasset"
+    },
     "04ef57fe-6c92-0c97-e23a-281e837bb77f": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -95,6 +97,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Robo_Runner.scene.nasset/Scale Connector.mesh.nasset/Scale Connector.mesh.nasset",
+        "thumbnail": "c1f6b4da-9041-7ae3-90dd-683a541da9cf",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -179,6 +182,7 @@
     "0d79de03-1fde-999e-f855-74ac188d0d27": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Icon.mtli.nasset",
+        "thumbnail": "850bdfc5-7121-9588-d399-a4b5bb54d091",
         "dependencies": [
             "846a87e3-b738-4471-a336-bcac78e126b1",
             "c145d213-cb50-799a-1c94-487a5d2064f2"
@@ -200,6 +204,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Robo_Runner.scene.nasset/Pressure Plate 03.mesh.nasset/Pressure Plate 03.mesh.nasset",
+        "thumbnail": "cf362ab9-052d-4817-95e2-4ae529aa2f67",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -219,6 +224,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Robo_Runner.scene.nasset/Spikes Half.mesh.nasset/Spikes Half.mesh.nasset",
+        "thumbnail": "db0e27cd-1e75-487f-100e-0aa2920b23c4",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -238,6 +244,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Robo_Runner.scene.nasset/Hazard 02.mesh.nasset/Hazard 02.mesh.nasset",
+        "thumbnail": "30776404-bc68-26f5-bad7-8a57c562637b",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -253,6 +260,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Robo_Runner.scene.nasset/Step Large.mesh.nasset/Step Large.mesh.nasset",
+        "thumbnail": "84cc90bb-624d-0a00-74da-a458670ab973",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -267,10 +275,15 @@
     "123c7899-a5db-f6b8-8411-ccb9fa7ff14b": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Platform.mtli.nasset",
+        "thumbnail": "7e1208da-9dc3-91d6-5f45-5353fc2060bd",
         "dependencies": [
             "846a87e3-b738-4471-a336-bcac78e126b1",
             "807a6e55-99ba-cc04-a008-3c4166e66dff"
         ]
+    },
+    "12cc2f99-6c0a-1eed-9ecf-5a09df9c30c7": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Robo_Runner.scene.nasset/Pressure Housing.mesh.nasset/Thumbnails/Pressure Housing.mesh.nasset.tex.nasset"
     },
     "13ad558c-298f-4bb1-31dd-69ee9c74affb": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -288,6 +301,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Robo_Runner.scene.nasset/Road Small.mesh.nasset/Road Small.mesh.nasset",
+        "thumbnail": "8fe387ad-9b34-c961-34ba-6e066c9be52d",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -296,6 +310,14 @@
             "61f36348-2d5d-955b-2de5-481d2b25c998",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "13f40edb-85d3-193e-8ad0-ebd5f6a477c8": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Robo_Runner.scene.nasset/Wall Base.mesh.nasset/Thumbnails/Wall Base.mesh.nasset.tex.nasset"
+    },
+    "13f5110b-4ce1-5994-de36-302289f59842": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Material Instances/Thumbnails/Purple 600.mtli.nasset.tex.nasset"
     },
     "14a2b6e8-42cc-5ecd-0de0-197e915035a1": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -333,10 +355,6 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
-    "1cf0f22d-a842-6275-4299-0b7eb71da771": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Spikes_Half_Thumb.tex.nasset"
-    },
     "1d2de0a7-1b9c-e194-ed8c-a723a518cfdc": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -364,9 +382,14 @@
     "1e675bee-8d30-c084-2a30-1af98c5eb102": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Pink 900.mtli.nasset",
+        "thumbnail": "a818460b-abb4-d22c-38e8-355c8edf1abb",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
+    },
+    "1edad3e7-4d08-470b-80c5-90076a64af96": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Material Instances/Thumbnails/Purple 500.mtli.nasset.tex.nasset"
     },
     "1f276239-477c-5f88-d3dc-833bc3eed695": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -380,9 +403,9 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
-    "2005fd0b-f1c7-9985-8973-f2278e8b6550": {
+    "1f8dd49b-b563-d023-4948-d754b2b24ce8": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Hazard_02_Thumb.tex.nasset"
+        "path": "Assets/Source/SC_Robo_Runner.scene.nasset/Ledge Long.mesh.nasset/Thumbnails/Ledge Long.mesh.nasset.tex.nasset"
     },
     "2009f1b7-95e7-a00f-63b2-2c6449f1ba60": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -399,6 +422,7 @@
     "21532be4-443c-951c-c98e-a9dafdc8266a": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Purple 800.mtli.nasset",
+        "thumbnail": "63f86645-c5c2-cf6c-a98f-b0bc11279ad0",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
@@ -475,6 +499,7 @@
     "248868c2-dcda-6ff3-d402-d118102b1eee": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Pink 500.mtli.nasset",
+        "thumbnail": "f7876e83-6202-19e4-84f6-c8a82bc69f58",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
@@ -495,6 +520,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Robo_Runner.scene.nasset/Fan Blade.mesh.nasset/Fan Blade.mesh.nasset",
+        "thumbnail": "e8905e86-d2bb-b9b9-a32c-51bde7d05c29",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -528,10 +554,6 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
-    "266325ca-0301-d4d9-589e-39909e7b0e7c": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Large_Pit_Thumb.tex.nasset"
-    },
     "269460ce-e44e-5179-ba90-2a4b42584c91": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -555,6 +577,10 @@
             "c95187a6-d622-7be2-0d71-fc3c0332a631",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "28f914ed-4f80-198d-62f0-56233e922373": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Robo_Runner.scene.nasset/Road.mesh.nasset/Thumbnails/Road.mesh.nasset.tex.nasset"
     },
     "295b690c-f57d-df8b-5f3f-5b3a72fb4a2e": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -584,6 +610,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Robo_Runner.scene.nasset/Ramp 01.mesh.nasset/Ramp 01.mesh.nasset",
+        "thumbnail": "61635a42-05de-cd5e-4316-0f9317beb11a",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -592,14 +619,6 @@
             "65bfc54e-6a1a-9732-a862-b5e99f8f1c87",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
-    },
-    "2a92d287-ffeb-a0a4-99c0-68af569a9ad0": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Floor_01_Thumb.tex.nasset"
-    },
-    "2aaab26b-e2c2-830c-cd1e-810902da9f81": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Road_Half_Thumb.tex.nasset"
     },
     "2ada78fe-732e-c8ac-a29a-68f14297181f": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -613,10 +632,19 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "2b6c7f84-2a50-a10a-23fb-528b4ea42d94": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Material Instances/Thumbnails/Gray 500.mtli.nasset.tex.nasset"
+    },
+    "2bde21c9-7ffe-54bc-b92f-683dbf018cb6": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Material Instances/Thumbnails/Sky 900.mtli.nasset.tex.nasset"
+    },
     "2c0596fb-eb9c-981f-6834-bd3ab8ab4419": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Robo_Runner.scene.nasset/Cube.mesh.nasset/Cube.mesh.nasset",
+        "thumbnail": "bcc6e17d-2fce-80f9-c0d3-5de58b85ecea",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -638,17 +666,17 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
-    "30ee9310-fc14-f03d-d0e5-ac8135026e9e": {
+    "2e9c3257-acd1-1d79-799d-1482a6e5ea92": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Saw_Thumb.tex.nasset"
+        "path": "Assets/Source/SC_Robo_Runner.scene.nasset/Saw.mesh.nasset/Thumbnails/Saw.mesh.nasset.tex.nasset"
     },
-    "3113ec61-b3a6-0ebe-3a12-20c95b0c98aa": {
+    "30776404-bc68-26f5-bad7-8a57c562637b": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Road_Corner_Thumb.tex.nasset"
+        "path": "Assets/Source/SC_Robo_Runner.scene.nasset/Hazard 02.mesh.nasset/Thumbnails/Hazard 02.mesh.nasset.tex.nasset"
     },
-    "3336080c-0ae2-4f14-5db4-59a6622c8f3b": {
+    "32b27643-1a0b-6d3c-265a-0617ceff631f": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Ramp_Base_Thumb.tex.nasset"
+        "path": "Assets/Source/SC_Robo_Runner.scene.nasset/Wall Stairs.mesh.nasset/Thumbnails/Wall Stairs.mesh.nasset.tex.nasset"
     },
     "338a2908-fea6-2103-aadb-087c92c9b00d": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -662,10 +690,15 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "35403492-673f-9831-e660-2bf7adb070d3": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Robo_Runner.scene.nasset/Seesaw Base.mesh.nasset/Thumbnails/Seesaw Base.mesh.nasset.tex.nasset"
+    },
     "35bc9823-a4cc-42a6-38f5-eb338595ac60": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Robo_Runner.scene.nasset/Scale Legs.mesh.nasset/Scale Legs.mesh.nasset",
+        "thumbnail": "406a7a1e-7ff8-3ea0-e3a8-1ac87e2b33df",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -703,6 +736,14 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "385990e8-503a-7a18-e25f-b27f8259f5e1": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Robo_Runner.scene.nasset/Floor 02.mesh.nasset/Thumbnails/Floor 02.mesh.nasset.tex.nasset"
+    },
+    "3a4df57d-4e52-9395-7827-8631715acb8c": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Material Instances/Thumbnails/Purple Custom.mtli.nasset.tex.nasset"
+    },
     "3a7bb284-8e79-e042-28eb-9bff34ec6579": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -719,6 +760,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Robo_Runner.scene.nasset/Obstacle Pole Large.mesh.nasset/Obstacle Pole Large.mesh.nasset",
+        "thumbnail": "d211ecf6-7640-974c-8f5b-994ab21c7d89",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -730,13 +772,10 @@
             "039d425e-5508-2e7b-3561-ec9be4d594b9"
         ]
     },
-    "3c247c25-603b-93b3-73e4-cd165e36639a": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Ramp_Connector_Thumb.tex.nasset"
-    },
     "3c68f913-ebc9-4252-e1c3-b20942d4b4d1": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Purple 600.mtli.nasset",
+        "thumbnail": "13f5110b-4ce1-5994-de36-302289f59842",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
@@ -745,9 +784,14 @@
         "assetTypeGuid": "926268b2-2d45-4c52-87c9-d76815217359",
         "path": "Package.nplugin"
     },
+    "3e4e58d2-4d87-0d20-8b44-8376568559ee": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Robo_Runner.scene.nasset/Hazard 01.mesh.nasset/Thumbnails/Hazard 01.mesh.nasset.tex.nasset"
+    },
     "3ea96508-5e76-2b1a-f4b1-3d09e33e82f2": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Violet 800.mtli.nasset",
+        "thumbnail": "52f759cd-8cd6-4a52-f625-fecb410104c3",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
@@ -764,9 +808,14 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "406a7a1e-7ff8-3ea0-e3a8-1ac87e2b33df": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Robo_Runner.scene.nasset/Scale Legs.mesh.nasset/Thumbnails/Scale Legs.mesh.nasset.tex.nasset"
+    },
     "407412a2-ea6f-e83f-78cd-ede2a5c64ba7": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Cyan 500.mtli.nasset",
+        "thumbnail": "87108599-51a9-8181-e4e1-5361e8f4631e",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
@@ -835,10 +884,6 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
-    "4d209593-a291-68e5-b2df-ac78d0898de1": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Obstacle_Pole_Large_Thumb.tex.nasset"
-    },
     "4def5bdd-3ca7-99a6-506d-2990ffbfdbda": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -851,14 +896,19 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
-    "4e43f728-0a38-d812-1375-585c35c2f728": {
+    "4dfa4c96-8482-25f2-ed0f-b46e8d2c26db": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Floor_02_Thumb.tex.nasset"
+        "path": "Assets/Source/SC_Robo_Runner.scene.nasset/Spike Double Pit.mesh.nasset/Thumbnails/Spike Double Pit.mesh.nasset.tex.nasset"
+    },
+    "4e0522b6-1eea-d94a-7be5-6e814ed67fdf": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Robo_Runner.scene.nasset/Ramp Base.mesh.nasset/Thumbnails/Ramp Base.mesh.nasset.tex.nasset"
     },
     "4f7992c5-a061-78a2-d7ed-4748cdd1de1e": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Robo_Runner.scene.nasset/Floor 02.mesh.nasset/Floor 02.mesh.nasset",
+        "thumbnail": "385990e8-503a-7a18-e25f-b27f8259f5e1",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -868,13 +918,13 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
-    "4f91e761-d1de-97ef-3b95-9de2ad103c21": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Wall_Top_Thumb.tex.nasset"
-    },
     "5085fd6d-a14d-5c7a-bf77-13389161e5cb": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Cubemaps/Default_EnviroSpecular.tex.nasset"
+    },
+    "511430a6-e801-bf86-676f-41e77c9af7e5": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Material Instances/Thumbnails/Yellow 500.mtli.nasset.tex.nasset"
     },
     "516a9b39-94eb-e908-cf75-ce77c6bbebb1": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -892,10 +942,6 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
-    "51d002c6-2cc1-63e5-26b8-221bd7d08f47": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Wall_Thumb.tex.nasset"
-    },
     "51efd558-0571-b42d-63ef-44ca6b696f20": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -908,10 +954,19 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "52f7376e-ef6d-bae2-4161-73b3dd877040": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Robo_Runner.scene.nasset/Road Entry.mesh.nasset/Thumbnails/Road Entry.mesh.nasset.tex.nasset"
+    },
+    "52f759cd-8cd6-4a52-f625-fecb410104c3": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Material Instances/Thumbnails/Violet 800.mtli.nasset.tex.nasset"
+    },
     "545319f3-8c34-0b3c-e092-bc5d149a3421": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Robo_Runner.scene.nasset/Road T Junction.mesh.nasset/Road T Junction.mesh.nasset",
+        "thumbnail": "5d6595fb-c30b-97a6-993c-846707621eec",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -940,6 +995,7 @@
     "5556999d-b166-d5ba-6f37-a135fff25e1e": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Purple 900.mtli.nasset",
+        "thumbnail": "cea62a5d-b2cd-7e87-7834-3793f9b6caf7",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
@@ -949,10 +1005,6 @@
         "componentTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/M_Night_Skybox.mtli.nasset",
         "thumbnail": "8bcac5e9-3d51-56dc-992a-a0c38bb6b2e6"
-    },
-    "584e8ecc-8af6-d76c-ebf8-ce662e286a81": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Road_Straight_Double_Thumb.tex.nasset"
     },
     "588122de-5c2c-cf4b-8ee6-612955353b1b": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -969,6 +1021,7 @@
     "58f17741-3141-f868-5cb2-fec3b874b17f": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Pink 600.mtli.nasset",
+        "thumbnail": "68640fb5-c6b5-6cae-731c-a11d19c687c0",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
@@ -976,6 +1029,7 @@
     "5b60b776-225f-dadf-8c84-8974bb40bff0": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Violet 600.mtli.nasset",
+        "thumbnail": "6064a088-73af-e8bd-4b65-77cda9ac519f",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
@@ -984,6 +1038,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Robo_Runner.scene.nasset/Round Table.mesh.nasset/Round Table.mesh.nasset",
+        "thumbnail": "ba847c32-e59f-b217-8ec9-0720c6c08039",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -997,6 +1052,10 @@
             "5196b74d-d979-e444-dd2d-66941b6fed86"
         ]
     },
+    "5ba1e252-e051-4324-044f-8118c1dd034c": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Robo_Runner.scene.nasset/Pillar.mesh.nasset/Thumbnails/Pillar.mesh.nasset.tex.nasset"
+    },
     "5d256e0b-509e-7ee9-5006-3adcbadc2ea2": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -1008,6 +1067,10 @@
             "123c7899-a5db-f6b8-8411-ccb9fa7ff14b",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "5d6595fb-c30b-97a6-993c-846707621eec": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Robo_Runner.scene.nasset/Road T Junction.mesh.nasset/Thumbnails/Road T Junction.mesh.nasset.tex.nasset"
     },
     "5db2d093-0356-c9c3-14fa-6ce2df03293b": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -1021,9 +1084,14 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "6064a088-73af-e8bd-4b65-77cda9ac519f": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Material Instances/Thumbnails/Violet 600.mtli.nasset.tex.nasset"
+    },
     "60fc087d-4e1d-d491-8bd2-fe67109a15f5": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Green 500.mtli.nasset",
+        "thumbnail": "d1bdef0c-950e-3d9d-1dc3-f9fe3915cfb0",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
@@ -1032,6 +1100,10 @@
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Robo_Lights.scene.nasset/SC_Robo_Lights.scene.nasset"
+    },
+    "61635a42-05de-cd5e-4316-0f9317beb11a": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Robo_Runner.scene.nasset/Ramp 01.mesh.nasset/Thumbnails/Ramp 01.mesh.nasset.tex.nasset"
     },
     "61f36348-2d5d-955b-2de5-481d2b25c998": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -1045,14 +1117,23 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "620fb7ef-831f-0383-6880-414da345bb64": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Material Instances/Thumbnails/Teal 600.mtli.nasset.tex.nasset"
+    },
     "62642299-dda3-8de6-a717-005e0e54455e": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Textures/T_Skybox_D.tex.nasset"
+    },
+    "63f86645-c5c2-cf6c-a98f-b0bc11279ad0": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Material Instances/Thumbnails/Purple 800.mtli.nasset.tex.nasset"
     },
     "64247c20-53e4-e8e7-7119-05d98855f993": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Robo_Runner.scene.nasset/Wall Stairs.mesh.nasset/Wall Stairs.mesh.nasset",
+        "thumbnail": "32b27643-1a0b-6d3c-265a-0617ceff631f",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -1122,6 +1203,10 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "68640fb5-c6b5-6cae-731c-a11d19c687c0": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Material Instances/Thumbnails/Pink 600.mtli.nasset.tex.nasset"
+    },
     "68dcd205-8999-81be-b54a-769efceb1f48": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -1133,10 +1218,6 @@
             "1e675bee-8d30-c084-2a30-1af98c5eb102",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
-    },
-    "695c3f1d-7a7f-a280-e02d-6b05c569d96a": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Cube_Thumb.tex.nasset"
     },
     "69e3e946-a8b9-bdc2-9f7b-45d4414552b1": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -1154,6 +1235,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Robo_Runner.scene.nasset/Ledge Long.mesh.nasset/Ledge Long.mesh.nasset",
+        "thumbnail": "1f8dd49b-b563-d023-4948-d754b2b24ce8",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -1162,6 +1244,10 @@
             "4b1b07da-992d-e674-4262-523213a48b0c",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "6b4f1906-193d-85fc-f374-c0763c3f8760": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Material Instances/Thumbnails/Blue 600.mtli.nasset.tex.nasset"
     },
     "6c9329a8-947a-27b9-203f-015d727ca42b": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -1178,15 +1264,7 @@
     "6ca2059b-2cd6-540c-18bf-7e1c24a2524c": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Source/SC_Robo_Runner.scene.nasset/Road Half.mesh.nasset/Road Half.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ],
-        "dependencies": [
-            "e8cac092-5751-bb14-a642-0e96dd3eafbf",
-            "b2575583-82c2-d4cc-a44c-ce10f5f16449",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
+        "path": "Assets/Source/SC_Robo_Runner.scene.nasset/Road Half.mesh.nasset/Road Half.mesh.nasset"
     },
     "6cd39741-58a0-4592-9963-cb5f75db3764": {
         "assetTypeGuid": "dda212f1-b3e6-406b-b801-2079d4a65561",
@@ -1236,6 +1314,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Robo_Runner.scene.nasset/Road.mesh.nasset/Road.mesh.nasset",
+        "thumbnail": "28f914ed-4f80-198d-62f0-56233e922373",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -1248,6 +1327,7 @@
     "71bb801d-52bc-819b-8f32-075b0bb39dc0": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Sky 900.mtli.nasset",
+        "thumbnail": "2bde21c9-7ffe-54bc-b92f-683dbf018cb6",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
@@ -1256,6 +1336,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Robo_Runner.scene.nasset/Pressure Plate 01.mesh.nasset/Pressure Plate 01.mesh.nasset",
+        "thumbnail": "c20b78b9-347a-dfdc-b051-42961714d8f0",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -1295,21 +1376,31 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "7677ec75-b72d-16b6-990a-2092089805aa": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Robo_Runner.scene.nasset/Seesaw Plank.mesh.nasset/Thumbnails/Seesaw Plank.mesh.nasset.tex.nasset"
+    },
+    "76a0ddaf-b9c1-f21f-18d3-88bf19d92763": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Material Instances/Thumbnails/Grid.mtli.nasset.tex.nasset"
+    },
     "7732ce50-a8a3-a6e9-957f-8057e405daba": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Teal 900.mtli.nasset",
+        "thumbnail": "87933c47-136a-219a-19aa-4eb5d1ed5b95",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
-    "785819da-6808-e97e-a698-c6a52cc71b30": {
+    "7860feff-8f9b-6a61-1d87-9ea6c2f67cb7": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Spike_Pit_Thumb.tex.nasset"
+        "path": "Assets/Source/SC_Robo_Runner.scene.nasset/Spikes Large.mesh.nasset/Thumbnails/Spikes Large.mesh.nasset.tex.nasset"
     },
     "78e89421-3880-7773-7b5f-3f1d965dec20": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Robo_Runner.scene.nasset/Seesaw Base.mesh.nasset/Seesaw Base.mesh.nasset",
+        "thumbnail": "35403492-673f-9831-e660-2bf7adb070d3",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -1320,6 +1411,18 @@
             "e8a4c3f1-21f4-a35a-7073-988c694038be",
             "04ef57fe-6c92-0c97-e23a-281e837bb77f"
         ]
+    },
+    "7a89e579-6c8d-c1ac-9362-2d697043df77": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Material Instances/Thumbnails/Orange 600.mtli.nasset.tex.nasset"
+    },
+    "7be2ed3f-2fe9-d7a8-3293-b0709aaa56f3": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Robo_Runner.scene.nasset/Road Corner.mesh.nasset/Thumbnails/Road Corner.mesh.nasset.tex.nasset"
+    },
+    "7e1208da-9dc3-91d6-5f45-5353fc2060bd": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Material Instances/Thumbnails/Platform.mtli.nasset.tex.nasset"
     },
     "7e2e1b44-d814-4935-eada-e515d449f141": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -1377,10 +1480,6 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
-    "81848396-743b-59bf-876a-3b4e346c4de4": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Spike_Double_Pit_Thumb.tex.nasset"
-    },
     "827b649b-79a3-9d92-21b6-c9bed7babd9c": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -1393,14 +1492,19 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
-    "84eeff5a-844a-c725-ba91-8c7c1e91ad62": {
+    "84cc90bb-624d-0a00-74da-a458670ab973": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Round_Table_Thumb.tex.nasset"
+        "path": "Assets/Source/SC_Robo_Runner.scene.nasset/Step Large.mesh.nasset/Thumbnails/Step Large.mesh.nasset.tex.nasset"
+    },
+    "850bdfc5-7121-9588-d399-a4b5bb54d091": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Material Instances/Thumbnails/Icon.mtli.nasset.tex.nasset"
     },
     "8551955e-7114-6d40-36b1-e156d7c0db88": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Robo_Runner.scene.nasset/Hazard 01.mesh.nasset/Hazard 01.mesh.nasset",
+        "thumbnail": "3e4e58d2-4d87-0d20-8b44-8376568559ee",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -1412,9 +1516,14 @@
             "7fc66533-7edf-db65-3be4-fd7c3b562e6d"
         ]
     },
+    "8624c93a-104b-f7b2-10b1-08323700bff3": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Robo_Runner.scene.nasset/Obstacle Hammer.mesh.nasset/Thumbnails/Obstacle Hammer.mesh.nasset.tex.nasset"
+    },
     "8648da23-2709-85e1-e64e-3986a4f9882f": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Purple Custom.mtli.nasset",
+        "thumbnail": "3a4df57d-4e52-9395-7827-8631715acb8c",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
@@ -1431,10 +1540,23 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "8682e435-7ca6-e1b8-0bf9-d32061a58d5e": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Robo_Runner.scene.nasset/Step Small.mesh.nasset/Thumbnails/Step Small.mesh.nasset.tex.nasset"
+    },
+    "87108599-51a9-8181-e4e1-5361e8f4631e": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Material Instances/Thumbnails/Cyan 500.mtli.nasset.tex.nasset"
+    },
+    "87933c47-136a-219a-19aa-4eb5d1ed5b95": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Material Instances/Thumbnails/Teal 900.mtli.nasset.tex.nasset"
+    },
     "88fcd232-62cd-427d-2dd4-8c11a5d4a49c": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Robo_Runner.scene.nasset/Ramp Base.mesh.nasset/Ramp Base.mesh.nasset",
+        "thumbnail": "4e0522b6-1eea-d94a-7be5-6e814ed67fdf",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -1466,6 +1588,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Robo_Runner.scene.nasset/Spike Pit.mesh.nasset/Spike Pit.mesh.nasset",
+        "thumbnail": "da2d1163-2969-80df-9ee3-9546f138c7bd",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -1481,14 +1604,27 @@
             "17f31fea-05a4-b3de-a753-8a5d59f15bd3"
         ]
     },
-    "8a022ba0-2e47-61b4-a9f5-12fd84062385": {
+    "8bd448b2-fe31-3665-ca68-053ae2855982": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Road_Thumb.tex.nasset"
+        "path": "Assets/Source/Material Instances/Thumbnails/Violet 900.mtli.nasset.tex.nasset"
+    },
+    "8c2d07f8-a060-2232-5484-1a8e658d17c7": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Robo_Runner.scene.nasset/Road Straight Double.mesh.nasset/Thumbnails/Road Straight Double.mesh.nasset.tex.nasset"
+    },
+    "8c5a3381-d8fc-7ada-22f2-7d3dd1d4e2ca": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Material Instances/Thumbnails/Purple 700.mtli.nasset.tex.nasset"
+    },
+    "8fe387ad-9b34-c961-34ba-6e066c9be52d": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Robo_Runner.scene.nasset/Road Small.mesh.nasset/Thumbnails/Road Small.mesh.nasset.tex.nasset"
     },
     "944e9fb9-2776-fb60-07bf-948d3c4d8e1b": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Robo_Runner.scene.nasset/Spike Double Pit.mesh.nasset/Spike Double Pit.mesh.nasset",
+        "thumbnail": "4dfa4c96-8482-25f2-ed0f-b46e8d2c26db",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -1506,18 +1642,11 @@
             "0a7e0b7d-0c29-d06a-439a-4f85dc718887"
         ]
     },
-    "949102bd-e9bc-143f-b575-e6ab00f35078": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Wall_Base_Thumb.tex.nasset"
-    },
-    "9877f70b-e421-1f49-9ac2-e8b4bf9a8d71": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Hazard_01_Thumb.tex.nasset"
-    },
     "9888baae-9251-1857-de06-bf6d24e5c16a": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Robo_Runner.scene.nasset/Pressure Plate 02.mesh.nasset/Pressure Plate 02.mesh.nasset",
+        "thumbnail": "c72a63e6-7c81-e810-1576-8c605e54a97c",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -1533,14 +1662,11 @@
             "6fb661ef-f10c-9aef-0ae3-2650ff8ef1e0"
         ]
     },
-    "9afb0b54-5cb1-8eb6-1030-935fc6b38ba8": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Road_Quarter_Thumb.tex.nasset"
-    },
     "9b223ce1-94e5-3cff-21df-23d13541c82c": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Robo_Runner.scene.nasset/Diamond.mesh.nasset/Diamond.mesh.nasset",
+        "thumbnail": "dc52ce8b-89b7-a1d8-597f-969249cdfecb",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -1549,6 +1675,10 @@
             "1d869a87-0909-4b94-296a-c040a2ea4f68",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "9b9cfbc2-6fe8-9c1f-01f5-81d0884aa30a": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Material Instances/Thumbnails/Blue 900.mtli.nasset.tex.nasset"
     },
     "9baad405-a74e-07cf-c892-06141459eb38": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -1562,14 +1692,11 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
-    "9c24708c-5edb-968b-1670-6ec8cc177446": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Pressure_Plate_02_Thumb.tex.nasset"
-    },
     "9c72a398-921c-e51e-2038-1cbb4e510cf1": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Robo_Runner.scene.nasset/Road Straight Single.mesh.nasset/Road Straight Single.mesh.nasset",
+        "thumbnail": "a690d066-e088-dfa9-db69-b2c7ef94498b",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -1599,6 +1726,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Robo_Runner.scene.nasset/Step Small.mesh.nasset/Step Small.mesh.nasset",
+        "thumbnail": "8682e435-7ca6-e1b8-0bf9-d32061a58d5e",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -1613,6 +1741,7 @@
     "9f1e6b19-ad79-8680-52b2-5a2cff3cbb3e": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Violet 900.mtli.nasset",
+        "thumbnail": "8bd448b2-fe31-3665-ca68-053ae2855982",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
@@ -1641,31 +1770,29 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
-    "a08ab266-30f3-c3c0-f7cf-1b3430a25d99": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Ramp_01_Thumb.tex.nasset"
-    },
     "a18acc45-4469-e42b-1452-d48228701dfa": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Orange 600.mtli.nasset",
+        "thumbnail": "7a89e579-6c8d-c1ac-9362-2d697043df77",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
-    "a1d570bc-d634-56b2-569a-de4362dfee03": {
+    "a27edacf-d4c0-56d2-fade-7cb3394f4bf7": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Scale_Legs_Thumb.tex.nasset"
+        "path": "Assets/Source/SC_Robo_Runner.scene.nasset/Obstacle Pole Center.mesh.nasset/Thumbnails/Obstacle Pole Center.mesh.nasset.tex.nasset"
+    },
+    "a447b4a2-85ed-0576-4605-2dc4af76b394": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Robo_Runner.scene.nasset/Obstacle Pole Small.mesh.nasset/Thumbnails/Obstacle Pole Small.mesh.nasset.tex.nasset"
     },
     "a47d610f-c548-492f-8682-31caa30da16a": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Pink 800.mtli.nasset",
+        "thumbnail": "f94f6973-a61c-0cb7-ddd9-c73a48e3e512",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
-    },
-    "a5321cd2-a2f2-c0b0-d19a-293b4b0ff954": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Ledge_02_Thumb.tex.nasset"
     },
     "a5611b28-3db3-1f6b-76bf-9e00620a19d7": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -1683,6 +1810,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Robo_Runner.scene.nasset/Pillar.mesh.nasset/Pillar.mesh.nasset",
+        "thumbnail": "5ba1e252-e051-4324-044f-8118c1dd034c",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -1696,6 +1824,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Robo_Runner.scene.nasset/Seesaw Plank.mesh.nasset/Seesaw Plank.mesh.nasset",
+        "thumbnail": "7677ec75-b72d-16b6-990a-2092089805aa",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -1712,13 +1841,14 @@
     "a68080bc-2211-c637-f0ff-49ebb49051ac": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Yellow 500.mtli.nasset",
+        "thumbnail": "511430a6-e801-bf86-676f-41e77c9af7e5",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
-    "a6cfecba-ff1f-e68a-bfba-b1b821d128cd": {
+    "a690d066-e088-dfa9-db69-b2c7ef94498b": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Step_Medium_Thumb.tex.nasset"
+        "path": "Assets/Source/SC_Robo_Runner.scene.nasset/Road Straight Single.mesh.nasset/Thumbnails/Road Straight Single.mesh.nasset.tex.nasset"
     },
     "a6dfa387-f1f6-a307-5c8b-064feaba7cab": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -1744,6 +1874,10 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "a818460b-abb4-d22c-38e8-355c8edf1abb": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Material Instances/Thumbnails/Pink 900.mtli.nasset.tex.nasset"
+    },
     "a8fc989f-27ce-5eba-c0fe-70871920b90b": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -1760,6 +1894,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Robo_Runner.scene.nasset/Obstacle Pole Small.mesh.nasset/Obstacle Pole Small.mesh.nasset",
+        "thumbnail": "a447b4a2-85ed-0576-4605-2dc4af76b394",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -1775,6 +1910,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Robo_Runner.scene.nasset/Wall Long.mesh.nasset/Wall Long.mesh.nasset",
+        "thumbnail": "d11f2eae-bc6d-bae9-d62d-679f74449318",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -1824,6 +1960,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Robo_Runner.scene.nasset/Obstacle Hammer.mesh.nasset/Obstacle Hammer.mesh.nasset",
+        "thumbnail": "8624c93a-104b-f7b2-10b1-08323700bff3",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -1859,10 +1996,15 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "b7d98cb2-3368-6481-db29-ff24d48df022": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Material Instances/Thumbnails/Sky 800.mtli.nasset.tex.nasset"
+    },
     "b86dbf6d-7dc3-2d1c-6112-f61e47203abb": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Robo_Runner.scene.nasset/Ramp 02.mesh.nasset/Ramp 02.mesh.nasset",
+        "thumbnail": "edcf0800-d155-c4d8-8326-961d1ccb2968",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -1872,9 +2014,9 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
-    "b8bbf716-fdc1-c4b1-618b-c0404b8ba61f": {
+    "b99069a2-5dd9-8e78-f649-05134a51aa06": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Seesaw_Plank_Thumb.tex.nasset"
+        "path": "Assets/Source/SC_Robo_Runner.scene.nasset/Road End.mesh.nasset/Thumbnails/Road End.mesh.nasset.tex.nasset"
     },
     "ba035ce3-a00c-298e-8441-7134f049de85": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -1888,6 +2030,10 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "ba847c32-e59f-b217-8ec9-0720c6c08039": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Robo_Runner.scene.nasset/Round Table.mesh.nasset/Thumbnails/Round Table.mesh.nasset.tex.nasset"
+    },
     "bb3df902-0dea-ba88-b00f-63e159d3b40b": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -1900,26 +2046,15 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
-    "bd8e288a-872d-cb83-6f5a-a17636a5b84a": {
+    "bcc6e17d-2fce-80f9-c0d3-5de58b85ecea": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Step_Large_Thumb.tex.nasset"
-    },
-    "bd97578e-b2ec-8e0c-6150-6bc518c46058": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Pressure_Plate_03_Thumb.tex.nasset"
-    },
-    "bf26139b-c2fd-ff88-c8a4-0a44b1b7cc86": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Scale_Connector_Thumb.tex.nasset"
-    },
-    "c0216707-344b-e55d-e3ab-baa618d6a652": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Wall_Stairs_Thumb.tex.nasset"
+        "path": "Assets/Source/SC_Robo_Runner.scene.nasset/Cube.mesh.nasset/Thumbnails/Cube.mesh.nasset.tex.nasset"
     },
     "c07762ae-e5da-037d-af2d-7af022a30c13": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Robo_Runner.scene.nasset/Ramp Connector.mesh.nasset/Ramp Connector.mesh.nasset",
+        "thumbnail": "01e1d8a0-b67c-9fb0-5b2f-ad39e03fd848",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -1951,6 +2086,18 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "c1c15a36-45ce-2a83-2a89-36b88b661e1b": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Robo_Runner.scene.nasset/Floor 01.mesh.nasset/Thumbnails/Floor 01.mesh.nasset.tex.nasset"
+    },
+    "c1f6b4da-9041-7ae3-90dd-683a541da9cf": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Robo_Runner.scene.nasset/Scale Connector.mesh.nasset/Thumbnails/Scale Connector.mesh.nasset.tex.nasset"
+    },
+    "c20b78b9-347a-dfdc-b051-42961714d8f0": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Robo_Runner.scene.nasset/Pressure Plate 01.mesh.nasset/Thumbnails/Pressure Plate 01.mesh.nasset.tex.nasset"
+    },
     "c21e316b-74c3-bb32-1ff6-6f4c1487de85": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -1963,14 +2110,15 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
-    "c3c6dc6f-275e-24bd-3ec1-e477f3607637": {
+    "c3ac98ce-323b-070f-94b7-88aa2053baa0": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Wall_Long_Thumb.tex.nasset"
+        "path": "Assets/Source/SC_Robo_Runner.scene.nasset/Ledge Short.mesh.nasset/Thumbnails/Ledge Short.mesh.nasset.tex.nasset"
     },
     "c4aebad5-f15b-4445-7bac-d1f97d343034": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Robo_Runner.scene.nasset/Wall Base.mesh.nasset/Wall Base.mesh.nasset",
+        "thumbnail": "13f40edb-85d3-193e-8ad0-ebd5f6a477c8",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -2004,9 +2152,14 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "c72a63e6-7c81-e810-1576-8c605e54a97c": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Robo_Runner.scene.nasset/Pressure Plate 02.mesh.nasset/Thumbnails/Pressure Plate 02.mesh.nasset.tex.nasset"
+    },
     "c95187a6-d622-7be2-0d71-fc3c0332a631": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Purple 700.mtli.nasset",
+        "thumbnail": "8c5a3381-d8fc-7ada-22f2-7d3dd1d4e2ca",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
@@ -2023,10 +2176,6 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
-    "cb066aea-ace0-085e-80e3-cb8080eff3be": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Road_Entry_Thumb.tex.nasset"
-    },
     "cd9f09f5-d68f-4da7-9167-c545c44ad725": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -2039,25 +2188,27 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
-    "ce54c8c6-0050-f244-489b-79d791cfeadf": {
+    "cea62a5d-b2cd-7e87-7834-3793f9b6caf7": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Ramp_02_Thumb.tex.nasset"
+        "path": "Assets/Source/Material Instances/Thumbnails/Purple 900.mtli.nasset.tex.nasset"
+    },
+    "cf362ab9-052d-4817-95e2-4ae529aa2f67": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Robo_Runner.scene.nasset/Pressure Plate 03.mesh.nasset/Thumbnails/Pressure Plate 03.mesh.nasset.tex.nasset"
     },
     "cfd43e19-091d-a1f3-9a7f-428705a94d36": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Sky 800.mtli.nasset",
+        "thumbnail": "b7d98cb2-3368-6481-db29-ff24d48df022",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
-    },
-    "d07c48b1-9711-e62e-4f5d-62c2c1d8ced7": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Fan_Blade_Thumb.tex.nasset"
     },
     "d08a4fc6-8c3f-95b5-1b50-9c4bfea408be": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Robo_Runner.scene.nasset/Wall Top.mesh.nasset/Wall Top.mesh.nasset",
+        "thumbnail": "f3c571a5-b0ea-1730-5568-89401933f726",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -2073,6 +2224,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Robo_Runner.scene.nasset/Obstacle Pole Center.mesh.nasset/Obstacle Pole Center.mesh.nasset",
+        "thumbnail": "a27edacf-d4c0-56d2-fade-7cb3394f4bf7",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -2083,6 +2235,18 @@
             "d900a3c1-dbed-d4c1-641d-45ab8024358a",
             "ffb5f6fd-5169-f74c-2fe8-f29ddb1af9da"
         ]
+    },
+    "d11f2eae-bc6d-bae9-d62d-679f74449318": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Robo_Runner.scene.nasset/Wall Long.mesh.nasset/Thumbnails/Wall Long.mesh.nasset.tex.nasset"
+    },
+    "d1bdef0c-950e-3d9d-1dc3-f9fe3915cfb0": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Material Instances/Thumbnails/Green 500.mtli.nasset.tex.nasset"
+    },
+    "d211ecf6-7640-974c-8f5b-994ab21c7d89": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Robo_Runner.scene.nasset/Obstacle Pole Large.mesh.nasset/Thumbnails/Obstacle Pole Large.mesh.nasset.tex.nasset"
     },
     "d25d457b-cd39-c7ce-b3b4-3d0a86b9b598": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -2100,6 +2264,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Robo_Runner.scene.nasset/Road Entry.mesh.nasset/Road Entry.mesh.nasset",
+        "thumbnail": "52f7376e-ef6d-bae2-4161-73b3dd877040",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -2131,6 +2296,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Robo_Runner.scene.nasset/Saw.mesh.nasset/Saw.mesh.nasset",
+        "thumbnail": "2e9c3257-acd1-1d79-799d-1482a6e5ea92",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -2154,9 +2320,9 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
-    "d3f9aa68-2765-a3db-0338-ec650c55461c": {
+    "d40608c0-edcd-24f8-f8db-584e412623bc": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Pressure_Housing_Thumb.tex.nasset"
+        "path": "Assets/Source/Material Instances/Thumbnails/Blue 800.mtli.nasset.tex.nasset"
     },
     "d5b354e1-6d28-466a-bccc-75d3bf7ba772": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -2186,6 +2352,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Robo_Runner.scene.nasset/Road Straight Double.mesh.nasset/Road Straight Double.mesh.nasset",
+        "thumbnail": "8c2d07f8-a060-2232-5484-1a8e658d17c7",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -2199,20 +2366,30 @@
             "04208304-c72c-8de0-014d-24f6c0e9e0f7"
         ]
     },
-    "d7c97176-58b9-e7bc-7e3a-033d46d70fbf": {
+    "d7d534bb-4641-d3c9-5d6e-33bd4d84544a": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Ledge_01_Thumb.tex.nasset"
+        "path": "Assets/Source/Material Instances/Thumbnails/Sky 600.mtli.nasset.tex.nasset"
     },
     "d900a3c1-dbed-d4c1-641d-45ab8024358a": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Gray 500.mtli.nasset",
+        "thumbnail": "2b6c7f84-2a50-a10a-23fb-528b4ea42d94",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
+    "da2d1163-2969-80df-9ee3-9546f138c7bd": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Robo_Runner.scene.nasset/Spike Pit.mesh.nasset/Thumbnails/Spike Pit.mesh.nasset.tex.nasset"
+    },
+    "db0e27cd-1e75-487f-100e-0aa2920b23c4": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Robo_Runner.scene.nasset/Spikes Half.mesh.nasset/Thumbnails/Spikes Half.mesh.nasset.tex.nasset"
+    },
     "dbb096c9-c709-a43f-9a98-d3ed009007fe": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Teal 800.mtli.nasset",
+        "thumbnail": "de17cf94-f7d6-942e-835f-4dffe253c75c",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
@@ -2221,6 +2398,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Robo_Runner.scene.nasset/Wall.mesh.nasset/Wall.mesh.nasset",
+        "thumbnail": "dd2de02f-b736-9138-cd69-354769856ada",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -2229,6 +2407,10 @@
             "338a2908-fea6-2103-aadb-087c92c9b00d",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "dc52ce8b-89b7-a1d8-597f-969249cdfecb": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Robo_Runner.scene.nasset/Diamond.mesh.nasset/Thumbnails/Diamond.mesh.nasset.tex.nasset"
     },
     "dd0ed2ad-e1b9-6e52-37b8-4fb4cc46c294": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -2242,10 +2424,15 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "dd2de02f-b736-9138-cd69-354769856ada": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Robo_Runner.scene.nasset/Wall.mesh.nasset/Thumbnails/Wall.mesh.nasset.tex.nasset"
+    },
     "dd82db4a-225f-0597-c0e9-3e53e19d8c26": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Robo_Runner.scene.nasset/Road Corner.mesh.nasset/Road Corner.mesh.nasset",
+        "thumbnail": "7be2ed3f-2fe9-d7a8-3293-b0709aaa56f3",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -2259,6 +2446,10 @@
             "485af0cc-bedd-cdf6-d34b-513aa44f0a42"
         ]
     },
+    "de17cf94-f7d6-942e-835f-4dffe253c75c": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Material Instances/Thumbnails/Teal 800.mtli.nasset.tex.nasset"
+    },
     "e13d5bec-fe53-b2f5-d895-234511407298": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -2270,10 +2461,6 @@
             "5556999d-b166-d5ba-6f37-a135fff25e1e",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
-    },
-    "e2c57ada-fbdf-99bc-23df-2650fcee7452": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Step_Small_Thumb.tex.nasset"
     },
     "e3a59d09-c9d8-b09d-370d-115370a9f703": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -2291,6 +2478,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Robo_Runner.scene.nasset/Step Medium.mesh.nasset/Step Medium.mesh.nasset",
+        "thumbnail": "04c29b20-8d98-96b0-56ff-47bc57e7a331",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -2302,14 +2490,11 @@
             "6f1c9012-145d-76b8-f73f-ba46c02c1a75"
         ]
     },
-    "e5336056-e6b3-c821-ac2a-0153c470363d": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Road_T_Junction_Thumb.tex.nasset"
-    },
     "e69b9aac-4e52-fd91-670c-facb41c7edd3": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Robo_Runner.scene.nasset/Ledge Short.mesh.nasset/Ledge Short.mesh.nasset",
+        "thumbnail": "c3ac98ce-323b-070f-94b7-88aa2053baa0",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -2331,9 +2516,14 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "e8905e86-d2bb-b9b9-a32c-51bde7d05c29": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Robo_Runner.scene.nasset/Fan Blade.mesh.nasset/Thumbnails/Fan Blade.mesh.nasset.tex.nasset"
+    },
     "e8a4c3f1-21f4-a35a-7073-988c694038be": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Purple 500.mtli.nasset",
+        "thumbnail": "1edad3e7-4d08-470b-80c5-90076a64af96",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
@@ -2341,6 +2531,7 @@
     "e8cac092-5751-bb14-a642-0e96dd3eafbf": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Grid.mtli.nasset",
+        "thumbnail": "76a0ddaf-b9c1-f21f-18d3-88bf19d92763",
         "dependencies": [
             "846a87e3-b738-4471-a336-bcac78e126b1",
             "41732868-00d1-d7ab-5671-fc3d6ae2a180"
@@ -2350,6 +2541,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Robo_Runner.scene.nasset/Pressure Housing.mesh.nasset/Pressure Housing.mesh.nasset",
+        "thumbnail": "12cc2f99-6c0a-1eed-9ecf-5a09df9c30c7",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -2358,10 +2550,6 @@
             "25088b54-a694-30bb-6ca4-2963a539d729",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
-    },
-    "e959df2c-ab87-5a1d-e43d-219b1d1c2993": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Pressure_Plate_01_Thumb.tex.nasset"
     },
     "e99b89fe-d903-3446-03d5-346484fef48f": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -2375,13 +2563,10 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
-    "ea92f6fd-a160-f553-63ff-d7f818a7c5d8": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Pillar_Thumb.tex.nasset"
-    },
     "eac20c3d-9a89-8dc4-1c61-9681b94c4bb7": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Blue 600.mtli.nasset",
+        "thumbnail": "6b4f1906-193d-85fc-f374-c0763c3f8760",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
@@ -2390,6 +2575,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Robo_Runner.scene.nasset/Road End.mesh.nasset/Road End.mesh.nasset",
+        "thumbnail": "b99069a2-5dd9-8e78-f649-05134a51aa06",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -2402,10 +2588,6 @@
             "e8cac092-5751-bb14-a642-0e96dd3eafbf",
             "752ec5c7-bdb6-f017-579a-3a49d7db0c67"
         ]
-    },
-    "eb79b52f-47d8-1f91-6ebd-1a19c332be81": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Obstacle_Pole_Center_Thumb.tex.nasset"
     },
     "eba2a1d0-0aec-29cb-85f0-2c629843f2da": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -2431,6 +2613,10 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "ed06815b-da68-d37e-5025-c2131b432c64": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Robo_Runner.scene.nasset/Pit Large.mesh.nasset/Thumbnails/Pit Large.mesh.nasset.tex.nasset"
+    },
     "ed663063-d501-6f6a-6714-0576208fc522": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -2443,10 +2629,15 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "edcf0800-d155-c4d8-8326-961d1ccb2968": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Robo_Runner.scene.nasset/Ramp 02.mesh.nasset/Thumbnails/Ramp 02.mesh.nasset.tex.nasset"
+    },
     "ef69ad3e-0cc1-630f-f0f2-60d1fb6b94ac": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Robo_Runner.scene.nasset/Spikes Large.mesh.nasset/Spikes Large.mesh.nasset",
+        "thumbnail": "7860feff-8f9b-6a61-1d87-9ea6c2f67cb7",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -2461,10 +2652,6 @@
             "e8cac092-5751-bb14-a642-0e96dd3eafbf",
             "827b649b-79a3-9d92-21b6-c9bed7babd9c"
         ]
-    },
-    "efd79cd2-f4b2-26b4-4715-651d656999d5": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Seesaw_Base_Thumb.tex.nasset"
     },
     "f0eb1bb0-70c5-c064-7bcf-3da8bf76d88a": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -2493,13 +2680,14 @@
     "f1aaa93c-b934-8664-975c-25ac50c9f517": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Teal 600.mtli.nasset",
+        "thumbnail": "620fb7ef-831f-0383-6880-414da345bb64",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
-    "f1aff7e1-b0bf-a0c8-f06e-d9d610ed33bb": {
+    "f3c571a5-b0ea-1730-5568-89401933f726": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Road_Straight_Single_Thumb.tex.nasset"
+        "path": "Assets/Source/SC_Robo_Runner.scene.nasset/Wall Top.mesh.nasset/Thumbnails/Wall Top.mesh.nasset.tex.nasset"
     },
     "f44fea3d-04a3-645f-9745-5fe1744944c8": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -2516,9 +2704,18 @@
     "f4b0597c-9cbf-8234-0f96-8d91eb622770": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Sky 600.mtli.nasset",
+        "thumbnail": "d7d534bb-4641-d3c9-5d6e-33bd4d84544a",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
+    },
+    "f53cf5e1-2d47-cee3-2420-206a0fb64bc7": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Robo_Runner.scene.nasset/Road Half.mesh.nasset/Thumbnails/Road Half.mesh.nasset.tex.nasset"
+    },
+    "f7876e83-6202-19e4-84f6-c8a82bc69f58": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Material Instances/Thumbnails/Pink 500.mtli.nasset.tex.nasset"
     },
     "f80decaa-479f-f90f-a1e8-1a44d391084b": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -2536,6 +2733,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Robo_Runner.scene.nasset/Pit Large.mesh.nasset/Pit Large.mesh.nasset",
+        "thumbnail": "ed06815b-da68-d37e-5025-c2131b432c64",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -2544,6 +2742,10 @@
             "bb3df902-0dea-ba88-b00f-63e159d3b40b",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "f94f6973-a61c-0cb7-ddd9-c73a48e3e512": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Material Instances/Thumbnails/Pink 800.mtli.nasset.tex.nasset"
     },
     "fb9f7726-4452-431d-4b75-e72fb76f6ce0": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -2556,10 +2758,6 @@
             "e8cac092-5751-bb14-a642-0e96dd3eafbf",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
-    },
-    "fc658026-2efc-38c2-5e25-64339af289b9": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Spikes_Large_Thumb.tex.nasset"
     },
     "fcefec3e-f2bc-bb1c-4c24-e99d250e94ce": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -2576,6 +2774,7 @@
     "ffab7e83-cbb8-6d34-5bf6-4aeeb4c83cca": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Blue 800.mtli.nasset",
+        "thumbnail": "d40608c0-edcd-24f8-f8db-584e412623bc",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
