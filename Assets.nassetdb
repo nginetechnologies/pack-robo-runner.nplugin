@@ -782,7 +782,8 @@
     },
     "3d6d436e-cc7c-4104-a611-1c1e98973d95": {
         "assetTypeGuid": "926268b2-2d45-4c52-87c9-d76815217359",
-        "path": "Package.nplugin"
+        "path": "Package.nplugin",
+        "name": "Robo Runner Assets"
     },
     "3e4e58d2-4d87-0d20-8b44-8376568559ee": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
