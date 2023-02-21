@@ -77,10 +77,6 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
-    "05f1232d-58cf-e1f2-cd7d-f37132c9a661": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Cubemaps/Default_Enviro.tex.nasset"
-    },
     "07fccb27-aea9-fbbd-c035-941cfa268357": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -284,6 +280,10 @@
     "12cc2f99-6c0a-1eed-9ecf-5a09df9c30c7": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Robo_Runner.scene.nasset/Pressure Housing.mesh.nasset/Thumbnails/Pressure Housing.mesh.nasset.tex.nasset"
+    },
+    "1307024e-fe51-3bd8-8a95-dfcc2b37ac00": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Cubemaps/Robo_EnviroDiffuse.tex.nasset"
     },
     "13ad558c-298f-4bb1-31dd-69ee9c74affb": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -919,17 +919,9 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
-    "5085fd6d-a14d-5c7a-bf77-13389161e5cb": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Cubemaps/Default_EnviroSpecular.tex.nasset"
-    },
     "511430a6-e801-bf86-676f-41e77c9af7e5": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Material Instances/Thumbnails/Yellow 500.mtli.nasset.tex.nasset"
-    },
-    "516a9b39-94eb-e908-cf75-ce77c6bbebb1": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Cubemaps/Default_EnviroDiffuse.tex.nasset"
     },
     "5196b74d-d979-e444-dd2d-66941b6fed86": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -1000,12 +992,6 @@
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
-    },
-    "58412cfa-486c-4b7e-8aa1-c95deb465063": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "componentTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/M_Night_Skybox.mtli.nasset",
-        "thumbnail": "8bcac5e9-3d51-56dc-992a-a0c38bb6b2e6"
     },
     "588122de-5c2c-cf4b-8ee6-612955353b1b": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -1663,6 +1649,12 @@
             "6fb661ef-f10c-9aef-0ae3-2650ff8ef1e0"
         ]
     },
+    "9a4bf86a-ab4c-472b-ad37-a0fe1775d076": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "componentTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/M_Night_Skybox.mtli.nasset",
+        "thumbnail": "8bcac5e9-3d51-56dc-992a-a0c38bb6b2e6"
+    },
     "9b223ce1-94e5-3cff-21df-23d13541c82c": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -1890,6 +1882,10 @@
             "71bb801d-52bc-819b-8f32-075b0bb39dc0",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "acec4e41-0eb3-0b26-8ff9-830bc4e0d80c": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Cubemaps/Robo_Enviro.tex.nasset"
     },
     "ad3e718a-0f4f-8a69-4f4b-4b274caf2c7b": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -2450,6 +2446,10 @@
     "de17cf94-f7d6-942e-835f-4dffe253c75c": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Material Instances/Thumbnails/Teal 800.mtli.nasset.tex.nasset"
+    },
+    "e063f7a8-c61b-a286-cc31-b3d38fd6e970": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Cubemaps/Robo_EnviroSpecular.tex.nasset"
     },
     "e13d5bec-fe53-b2f5-d895-234511407298": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
