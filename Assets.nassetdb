@@ -1251,7 +1251,15 @@
     "6ca2059b-2cd6-540c-18bf-7e1c24a2524c": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Source/SC_Robo_Runner.scene.nasset/Road Half.mesh.nasset/Road Half.mesh.nasset"
+        "path": "Assets/Source/SC_Robo_Runner.scene.nasset/Road Half.mesh.nasset/Road Half.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "e8cac092-5751-bb14-a642-0e96dd3eafbf",
+            "b2575583-82c2-d4cc-a44c-ce10f5f16449",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
     },
     "6cd39741-58a0-4592-9963-cb5f75db3764": {
         "assetTypeGuid": "dda212f1-b3e6-406b-b801-2079d4a65561",
